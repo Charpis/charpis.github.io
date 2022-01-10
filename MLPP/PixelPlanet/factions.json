@@ -25,6 +25,12 @@
 		"images":"https://raw.githubusercontent.com/ForKorny/super-eureka/main/",
 		"color" :"rgb(0, 91, 255);"
 	},
+	
+	"SWP":{
+		"data"  :"https://raw.githubusercontent.com/Stanislav2007/SWminimap/main/data.json",
+		"images":"https://raw.githubusercontent.com/Stanislav2007/SWminimap/main/",
+		"color" :"#FFE919"
+	},
 	"Charpis":{
 		"data"  :"https://raw.githubusercontent.com/Charpis/charpis.github.io/master/CharpisTemplates/data.json",
 		"images":"https://raw.githubusercontent.com/Charpis/charpis.github.io/master/CharpisTemplates/images/",
