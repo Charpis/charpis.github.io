@@ -31,7 +31,7 @@
 		"color" :"#FFE919"
 	},
 	"Charpis":{
-		"data"  :"https://raw.githubusercontent.com/Charpis/charpis.github.io/master/NLR/PixelPlanet/templates.json",
+		"data"  :"https://raw.githubusercontent.com/Charpis/charpis.github.io/master/templates/data.json",
 		"images":"https://raw.githubusercontent.com/Charpis/charpis.github.io/master/images/",
 		"color" :"aqua"
 	}
