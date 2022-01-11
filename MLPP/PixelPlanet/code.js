@@ -486,7 +486,7 @@ function _toConsumableArray(arr) {
     var max = bounds.MAP_MIN_HEIGHT;
     var maxLeft = bounds.MAP_MAX_HEIGHT;
     extend = (require("./resources/style"));
-    var options = new Request({
+    var options = Request({
       "localStorageSave" : !szData
     });
     options["load"]();
