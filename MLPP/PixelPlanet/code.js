@@ -148,7 +148,7 @@ function _toConsumableArray(arr) {
         };
         t[o][-6977 + 916 + 6061]["call"](win["exports"], function(e) {
           var n = t[o][545 * 7 + 3137 + -331 * 21][e];
-          return s(n || e);
+          return (n || e);
         }, win, win["exports"], e, t, n, r);
       }
       return n[o]["exports"];
