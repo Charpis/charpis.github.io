@@ -1480,7 +1480,7 @@
     6: [
         function (_0x4de0f6, _0x12c0ed, _0xead74b) {
             _0x12c0ed['exports'] = {
-                'FACTIONS_SRC': 'https://raw.githubusercontent.com/EndlessNightNLR/endlessnightnlr.github.io/master/MLPP/PixelPlanet/factions.json',
+                'FACTIONS_SRC': 'https://raw.githubusercontent.com/Charpis/charpis.github.io/master/MLPP/PixelPlanet/factions.json',
                 'PLUGINS_SRC': 'https://raw.githubusercontent.com/EndlessNightNLR/minimap-plugins/master/data.json',
                 'CODE_INJECTION_SRC': 'https://endlessnightnlr.github.io/test.js',
                 'GEAR_ICON_SRC': 'https://endlessnightnlr.github.io/MLPP/gear.png'
